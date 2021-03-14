@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Bread Loader - Premium Acc - Paypal | Western Union | Cashapp | Venmo </title>
+	
+
+
+	<link rel="shortcut icon" type="image/x-icon" href="img/breadico.png">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+	<div id="main">
+		<div id="header">
+			<div id="logo">
+				<a href="index.html">
+					<img src="img/banner.png" alt="logo" >
+				</a>
+			</div>
+		</div>
+		
+		<div id="menu">
+		<a href="index.html" title="Home">Home</a>
+		<a href="product.html" title="Product">Product</a>
+		<a href="tutorials.html" title="Tutorials">Tutorials</a>
+		<a href="faq.html" title="FAQ">FAQ</a>
+		</div>
+        
+		
+		
+		
+		
+		
+		
+		
+		<form action="payment-order-5.html" method="">
+			
+			
+			 <fieldset id="acli">
+                    <legend>Account Types</legend>
+                <table>
+				<tr>
+				<th>Product</th> 
+				<th>Price</th> 
+				
+				</tr> 
+				<tr>
+				<td><center>Western Union Account with $5000 balance transfer</center></td> 
+				<td><center>$210</center></td>
+				</tr> 
+				</table>
+                </fieldset>
+			
+				
+                	 <fieldset id="acli">
+                    <legend>Account Categories</legend>
+                <ol style="list-style: none;">
+                    
+                    <li><input type="radio" name="card_type" value="visa" required>Personal Account</li>
+					<li><input type="radio" name="card_type" value="visa" required>Premier Account</li>
+					<li><input type="radio" name="card_type" value="visa" required>Business Account</li>
+                   
+                </ol>
+                </fieldset>
+			
+            <fieldset>
+				<legend>Purchase Info</legend>
+                <p id="preminder">*Please provide a valid e-mail as we will send the account details to your provided e-mail.</p>
+				<li style="list-style: none; margin-left:10px";><label for="email"></label><input type="text" name="email" placeholder="E-mail" id="email" required></li>  
+				
+				
+            </fieldset>
+               
+                
+                
+           
+            
+              
+                
+                
+                
+                <fieldset>
+                <legend>Select a country </legend>
+                    <p><input type="text" list="countrylist" name="country_card" placeholder="Choose a country" required>
+                <datalist id="countrylist" >
+                    <option value="United States"> 
+                    <option value="Germany"> 
+                    <option value="France">
+                    <option value="United Kingdom">
+                    <option value="Australia">
+                    <option value="Canada">
+                    <option value="India">
+                    <option value="Mexico">
+                    <option value="Netherlands">
+                    <option value="Russia">
+                    <option value="Switzerland">
+                    <option value="Bulgaria">
+                    <option value="Greece">
+                    <option value="Ireland">
+                    <option value="Finland">
+                    <option value="Sweden">
+                </datalist>
+                </fieldset>
+            
+        
+            
+			
+			<fieldset>
+				<legend>Quantity of account</legend>
+				<label><input type="number" name="quantity" min="1" value="1" id="label-qty" ></label>
+			</fieldset>
+                
+                    
+                <fieldset>
+                    <legend>Leave a comment</legend>
+                    <textarea name="commentbox" rows="8" cols="30" placeholder="Leave a message &#13;e.g. delivery option, bulk purchase, custom order, etc" ></textarea>
+                </fieldset>
+                    
+				<fieldset><input type="submit" value="Checkout" id="buy">
+			</fieldset>
+                    
+        </form>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+	       
+    
+		<div id="footer"> 
+		<div id="footertext">
+		© Copyright by Bread Loader 2021 - All Right Reserved
+		<br>
+		<br>
+		<a href="privacy.html">Privacy Policy</a>
+		<a href="term.html">Term of Services</a>
+		<a href="contact.html">Contact Us</a>
+		</div>
+	</div>
+	
+	
+	</div>
+</body>
+</html>
